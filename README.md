@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ImBurbujas
+- 👀 I’m interested in Arduino and Python
+- 🌱 I’m currently learning Arduino 🎶
+- 🩻 I'm just trying to start in this world so i´m a rookie
